@@ -4,6 +4,7 @@
         open Currying
         open OperatorDefinitionAndOverloading
         open ActivePatterns
+        open FunctionComposition
 
         [<EntryPoint>]
         let main args = 
@@ -17,8 +18,8 @@
             // let x, y = p3.X, p3.Y
             // Console.WriteLine ("Point's coordinates: X = {0}, Y = {1}", x, y)           
 
-            doActivePatterns
-
+            // doActivePatterns
+            showcaseFunctionComposition
 
 
             // prevent window from closure

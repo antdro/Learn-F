@@ -50,6 +50,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="ActivePatterns.fs" />
     <Compile Include="Currying.fs" />
+    <Compile Include="FunctionComposition.fs" />
     <Compile Include="OperatorDefinitionAndOverloading.fs" />
     <Compile Include="Main.fs" />
     <None Include="App.config" />
