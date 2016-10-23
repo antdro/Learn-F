@@ -242,3 +242,7 @@ let s = sprintf "sprintf: this statement will be put in a string s"
 printfn "printfn: '%s'" s
 
 
+// ANATOMY OF AN F# PROGRAM
+// F# programs do not require an entry point like 'main function' in C++
+// however, code needs to be devided into ogranisation units: modules and namespaces 
+

@@ -54,7 +54,8 @@
     <Compile Include="OperatorDefinitionAndOverloading.fs" />
     <Compile Include="Main.fs" />
     <None Include="App.config" />
-    <None Include="Chapter2.Fundamentals.fsx" />
+    <None Include="Chapter2 - Fundamentals.fsx" />
+    <None Include="Chapter 3 - Functional Programming.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
