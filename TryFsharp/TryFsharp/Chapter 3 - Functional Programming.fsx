@@ -1,4 +1,5 @@
-﻿module FunctionValues =
+﻿
+module FunctionValues =
     // lambda function example
     let list = [1..10]
     printfn "list: %A\nnegative list: %A" list (List.map (fun i -> -i) list)
@@ -36,4 +37,6 @@
     printfn "3^%.0f = %.0f" power (powerOfThree power)
 
     
-
+// Recursive function section
+module RecursiveFunctions =
+    
